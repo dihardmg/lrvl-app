@@ -9,6 +9,6 @@ class HomeController extends Controller
     //
     public function sayHello()
     {
-        return response("hello world laravel 11");
+        return response("Hi ini laravel 11 !!....");
     }
 }
